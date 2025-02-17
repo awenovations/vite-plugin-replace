@@ -7,7 +7,6 @@
     "sourceMap": true,
     "strict": true,
     "outDir": "./",
-    "suppressImplicitAnyIndexErrors": true,
     "skipLibCheck": true,
     "module": "UMD",
     "removeComments": true,
